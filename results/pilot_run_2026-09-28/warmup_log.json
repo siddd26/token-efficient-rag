@@ -1,0 +1,17 @@
+{
+  "question": "What is the purpose of the Northstar policies?",
+  "runs": [
+    {
+      "approach": "baseline",
+      "total_latency_seconds": 18.3041768,
+      "generation_time_seconds": 18.2738242,
+      "answer": "These policies protect Northstar\u2019s systems, customer data, and employee data [SECURITY-C00], [LEAVE-C00], [SECURITY-C00], [IT-C00]."
+    },
+    {
+      "approach": "optimized",
+      "total_latency_seconds": 20.172828599999995,
+      "generation_time_seconds": 19.605454300000005,
+      "answer": "The purpose of the Northstar policies is to explain the types of leave available to employees and how leave is requested, approved, and recorded [LEAVE-C00]. Additionally, they protect Northstar\u2019s systems, customer data, and employee data [SECURITY-C00]."
+    }
+  ]
+}

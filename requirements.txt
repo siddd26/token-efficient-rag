@@ -1,0 +1,20 @@
+# Experiment
+openai>=1.40
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+transformers>=4.50
+tokenizers
+torch            # CPU build is sufficient: pip install torch --index-url https://download.pytorch.org/whl/cpu
+numpy
+pandas
+matplotlib
+scipy
+psutil
+python-dotenv
+tiktoken         # only used to document that it cannot tokenize Gemma
+# Notebook execution
+ipykernel
+nbconvert
+nbformat
+nbclient
+notebook

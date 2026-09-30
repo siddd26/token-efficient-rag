@@ -1,0 +1,1382 @@
+﻿question_id,question,category,answerable,reference_answer,baseline_answer,optimized_answer,baseline_answer_identical_across_runs,optimized_answer_identical_across_runs,baseline_final_context,optimized_final_context,baseline_quality,optimized_quality,baseline_groundedness,optimized_groundedness,baseline_correct_refusal,optimized_correct_refusal,notes
+Q01,How many days of paid annual leave does a full-time employee accrue per year?,direct_lookup,True,21 days per leave year (1.75 days per completed month of service).,Full-time employees accrue 21 days of paid annual leave per leave year. [LEAVE-C01],Full-time employees accrue 21 days of paid annual leave per leave year [LEAVE-C01].,True,True,"[LEAVE-C01]
+Temporary and seasonal workers are covered by their individual employment contracts. The leave year runs from 1 January to 31 December.
+
+## 2. Annual Leave
+
+Full-time employees accrue 1.75 days of paid annual leave for each completed month of service, which equals 21 days per leave year. Part-time employees accrue annual leave on a pro-rata basis according to their contracted hours.
+
+Employees may carry over a maximum of 5 unused annual leave days into the next leave year. Carried-over days
+
+[LEAVE-C02]
+of 5 unused annual leave days into the next leave year. Carried-over days must be used by 31 March of the new leave year; any carried-over days not used by that date are forfeited. Unused annual leave is paid out when employment ends.
+
+## 3. Requesting Annual Leave
+
+All annual leave must be requested through the PeopleHub portal. Requests for 3 or more consecutive working days must be submitted at least 10 working days before the first day of leave. Requests for 1 or 2 days must be submitted at
+
+[LEAVE-C07]
+and up to 2 days of paid bereavement leave following the death of an extended family member (grandparent, grandchild, aunt, uncle, or in-law).
+
+## 8. Unpaid Leave
+
+Employees with at least 1 year of continuous service may request up to 30 days of unpaid leave per leave year. Unpaid leave requires approval from the HR Director.
+
+## 9. Contact
+
+Questions about this policy should be sent to hr@northstar-retail.example or directed to the HR team on internal extension 2100.
+
+[LEAVE-C04]
+20 November and 2 January (the peak season blackout period). In exceptional circumstances, a store-based employee may take leave during the blackout period only with written approval from their Regional Manager. The blackout period does not apply to HQ employees.
+
+## 5. Sick Leave
+
+Employees receive 10 days of paid sick leave per leave year. Unused sick leave does not carry over. An employee who is unable to work because of illness must notify their line manager before 9:30 AM or before the
+
+[LEAVE-C05]
+because of illness must notify their line manager before 9:30 AM or before the start of their shift, whichever is earlier.
+
+If a sickness absence lasts more than 3 consecutive working days, the employee must upload a medical certificate to PeopleHub within 2 working days of returning to work.
+
+## 6. Parental Leave
+
+Employees who have completed at least 6 months of continuous service are eligible for paid parental leave. The primary caregiver receives 16 weeks of leave at full pay. The secondary","[LEAVE-C01]
+Full-time employees accrue 1.75 days of paid annual leave for each completed month of service, which equals 21 days per leave year.
+Part-time employees accrue annual leave on a pro-rata basis according to their contracted hours.
+Employees may carry over a maximum of 5 unused annual leave days into the next leave year.
+
+[LEAVE-C07]
+and up to 2 days of paid bereavement leave following the death of an extended family member (grandparent, grandchild, aunt, uncle, or in-law).
+Employees with at least 1 year of continuous service may request up to 30 days of unpaid leave per leave year.",,,,,,,
+Q02,"What is the return window for electronics, and is there a restocking fee?",direct_lookup,True,"14 days from purchase; must be unopened or with all original accessories and packaging. Opened, non-defective electronics carry a 15% restocking fee; no fee for defective electronics.",The return window for electronics is 14 days from the date of purchase [RETURNS-C01]. Opened electronics that are not defective are subject to a 15% restocking fee [RETURNS-C01].,The return window for electronics is 14 days from the date of purchase [RETURNS-C00]. There is a 15% restocking fee charged for opened electronics that are not defective [RETURNS-C01]. No restocking fee is charged for defective electronics [RETURNS-C01].,True,True,"[RETURNS-C01]
+of 14 days from the date of purchase. Electronics must be returned unopened, or with all original accessories and packaging. Opened electronics that are not defective are subject to a 15% restocking fee. No restocking fee is charged for defective electronics.
+
+## 3. Returns Without a Receipt
+
+Customers without a receipt may receive store credit for the lowest selling price of the item in the previous 60 days. A valid photo ID is required. Each customer is limited to 3 returns without a receipt
+
+[RETURNS-C05]
+with Gold tier membership in the Northstar Rewards program have a 45-day return window for most products. The 45-day window does not apply to electronics.
+
+## 10. Exceptions
+
+Store Managers may approve return exceptions (for example, a return outside the return window) with a value of up to $200. Exceptions above $200 must be escalated according to the Customer Support Escalation Process (NRS-CX-004).
+
+[RETURNS-C00]
+# Northstar Retail Systems — Product Return Policy
+
+Document ID: NRS-CX-003
+Owner: Customer Experience
+Effective date: 1 January 2026
+
+## 1. Standard Returns
+
+Most products can be returned within 30 days of purchase with a valid receipt. Returns with a receipt are refunded in full to the original payment method.
+
+## 2. Electronics
+
+Electronics, including laptops, tablets, phones, and headphones, have a return window of 14 days from the date of purchase. Electronics must be returned unopened, or
+
+[RETURNS-C03]
+use can be returned within 1 year of purchase under the Northstar warranty. The customer may choose either a replacement or a refund.
+
+## 6. Online Orders
+
+Online orders can be returned in any store or by mail within 30 days of delivery. A free return label is provided when the item is defective or the wrong item was sent. For all other mail returns, a return shipping fee of $6.95 is deducted from the refund.
+
+## 7. Refund Processing Times
+
+Refunds to credit or debit cards are processed within
+
+[RETURNS-C02]
+photo ID is required. Each customer is limited to 3 returns without a receipt in any 12-month period.
+
+## 4. Non-Returnable Items
+
+The following items are final sale and cannot be returned: clearance items marked ""Final Sale"", gift cards, personalized or engraved items, perishable food, and opened hygiene products such as cosmetics and earbuds.
+
+## 5. Defective Products
+
+Products that become defective through normal use can be returned within 1 year of purchase under the Northstar warranty. The","[RETURNS-C01]
+Electronics must be returned unopened, or with all original accessories and packaging.
+Opened electronics that are not defective are subject to a 15% restocking fee.
+No restocking fee is charged for defective electronics.
+
+[RETURNS-C05]
+The 45-day window does not apply to electronics.
+
+[RETURNS-C00]
+Electronics, including laptops, tablets, phones, and headphones, have a return window of 14 days from the date of purchase.",,,,,,,
+Q03,What is the minimum password length required at Northstar?,direct_lookup,True,At least 14 characters.,"Passwords must be at least 14 characters long [SECURITY-C01], [SECURITY-C00].",Passwords must be at least 14 characters long [SECURITY-C00].,True,True,"[SECURITY-C01]
+be at least 14 characters long. Passwords must be changed every 180 days, and immediately if a compromise is suspected. Employees may not reuse any of their last 10 passwords. Passwords must never be shared, including with managers or IT staff.
+
+Multi-factor authentication (MFA) is mandatory for company email, the HelpPoint portal, the PeopleHub portal, and the NorthLink VPN.
+
+## 3. Data Classification
+
+All Northstar information is classified into one of four levels: Public, Internal,
+
+[SECURITY-C00]
+# Northstar Retail Systems — Information Security Rules
+
+Document ID: NRS-SEC-005
+Owner: Information Security
+Effective date: 1 January 2026
+
+## 1. Purpose
+
+These rules protect Northstar's systems, customer data, and employee data. They apply to all employees, contractors, and temporary staff who use Northstar systems or handle Northstar information.
+
+## 2. Passwords and Multi-Factor Authentication
+
+Passwords must be at least 14 characters long. Passwords must be changed every 180 days, and
+
+[REMOTE-C05]
+Information Security Rules (NRS-SEC-005) at all times. In particular, employees must connect through the NorthLink VPN before accessing Northstar systems, and must not work on Confidential or Restricted data in public places.
+
+## 8. Working From Abroad
+
+Employees may work from another country for up to 10 working days per calendar year. Working from abroad requires HR approval, and the request must be submitted at least 15 working days before travel.
+
+## 9. Availability
+
+During core hours,
+
+[SECURITY-C02]
+Northstar information is classified into one of four levels: Public, Internal, Confidential, or Restricted. Restricted data includes customer payment card data and employee health records. Restricted data must always be encrypted, must never be stored on personal devices, and must never be sent from or to personal email accounts.
+
+## 4. Payment Card Data
+
+Staff must never write down, photograph, or store full customer card numbers. Card data may only be processed through approved POS terminals
+
+[REMOTE-C06]
+at least 15 working days before travel.
+
+## 9. Availability
+
+During core hours, remote employees must be reachable on Northstar Chat and must respond to messages within 1 hour.
+
+## 10. Overtime
+
+Overtime for non-exempt employees must be approved in advance by the line manager.","[SECURITY-C01]
+All Northstar information is classified into one of four levels: Public, Internal,
+
+[SECURITY-C00]
+# Northstar Retail Systems — Information Security Rules
+These rules protect Northstar's systems, customer data, and employee data.
+Passwords must be at least 14 characters long.
+
+[REMOTE-C05]
+In particular, employees must connect through the NorthLink VPN before accessing Northstar systems, and must not work on Confidential or Restricted data in public places.",,,,,,,
+Q04,What are the core hours for HQ employees?,direct_lookup,True,"10:00 AM to 3:00 PM, Monday to Friday.","The standard core hours for HQ employees are 10:00 AM to 3:00 PM, Monday to Friday [REMOTE-C00].","Core hours for HQ employees are 10:00 AM to 3:00 PM, Monday to Friday [REMOTE-C00].",True,True,"[REMOTE-C00]
+# Northstar Retail Systems — Remote Work and Office Hours Policy
+
+Document ID: NRS-HR-006
+Owner: Human Resources
+Effective date: 1 January 2026
+
+## 1. Office Hours
+
+The standard working week is 40 hours. The HQ office building is open from 7:00 AM to 8:00 PM, Monday to Friday. All HQ employees must be available during core hours, which are 10:00 AM to 3:00 PM, Monday to Friday. Outside core hours, HQ employees may choose their start and finish times in agreement with their line manager.
+
+[REMOTE-C06]
+at least 15 working days before travel.
+
+## 9. Availability
+
+During core hours, remote employees must be reachable on Northstar Chat and must respond to messages within 1 hour.
+
+## 10. Overtime
+
+Overtime for non-exempt employees must be approved in advance by the line manager.
+
+[REMOTE-C01]
+may choose their start and finish times in agreement with their line manager.
+
+Store-based employees work rostered shifts published by their Store Manager at least 2 weeks in advance.
+
+## 2. Eligibility for Remote Work
+
+Remote work is not available for store-floor roles or distribution centre roles. HQ employees become eligible for hybrid work after successfully completing their 3-month probation period.
+
+## 3. Hybrid Work
+
+Eligible HQ employees may work remotely for up to 3 days per week.
+
+[REMOTE-C02]
+Hybrid Work
+
+Eligible HQ employees may work remotely for up to 3 days per week. Tuesday and Thursday are anchor days, and all hybrid employees must work from the HQ office on those days.
+
+## 4. Fully Remote Work
+
+Fully remote work is granted only in exceptional circumstances. It requires approval from both the Department Head and HR, and each fully remote arrangement is reviewed every 6 months.
+
+## 5. How to Request a Remote Work Arrangement
+
+To request hybrid or fully remote work, the employee
+
+[REMOTE-C05]
+Information Security Rules (NRS-SEC-005) at all times. In particular, employees must connect through the NorthLink VPN before accessing Northstar systems, and must not work on Confidential or Restricted data in public places.
+
+## 8. Working From Abroad
+
+Employees may work from another country for up to 10 working days per calendar year. Working from abroad requires HR approval, and the request must be submitted at least 15 working days before travel.
+
+## 9. Availability
+
+During core hours,","[REMOTE-C00]
+The HQ office building is open from 7:00 AM to 8:00 PM, Monday to Friday.
+All HQ employees must be available during core hours, which are 10:00 AM to 3:00 PM, Monday to Friday.
+Outside core hours, HQ employees may choose their start and finish times in agreement with their line manager.
+
+[REMOTE-C02]
+Eligible HQ employees may work remotely for up to 3 days per week.
+Tuesday and Thursday are anchor days, and all hybrid employees must work from the HQ office on those days.",,,,,,,
+Q05,What are the response and resolution targets for a Priority 1 IT incident?,direct_lookup,True,Response within 15 minutes; resolution target of 4 hours.,Response within 15 minutes; resolution target of 4 hours [IT-C01].,I cannot find the answer in the provided documents.,True,True,"[IT-C01]
+PM, Monday to Saturday. Outside these hours, an on-call engineer can be reached through the after-hours line, which may be used for Priority 1 incidents only.
+
+## 2. Ticket Priorities and Targets
+
+Every ticket is assigned a priority level, which determines its response and resolution targets:
+
+- Priority 1 (Critical): a store's point-of-sale (POS) system is down, or a company-wide outage. Response within 15 minutes; resolution target of 4 hours.
+- Priority 2 (High): a single user cannot work,
+
+[IT-C02]
+resolution target of 4 hours.
+- Priority 2 (High): a single user cannot work, or a business-critical function is degraded. Response within 1 hour; resolution target of 1 business day.
+- Priority 3 (Normal): an issue with a workaround available. Response within 4 business hours; resolution target of 3 business days.
+- Priority 4 (Request): standard service requests such as new accessories. Response within 2 business days; resolution target of 10 business days.
+
+## 3. Password Resets and Account
+
+[ESCALATION-C03]
+Time Targets
+
+Tier 2 must acknowledge an escalated case within 4 business hours. Tier 3 must acknowledge an escalated case within 1 business day. For every open escalated case, the customer must receive a status update at least every 2 business days until the case is resolved.
+
+## 4. Escalation Steps
+
+When escalating a customer issue, staff must follow these steps:
+
+1. Acknowledge the customer's concern and apologize for the inconvenience.
+2. Collect the order number, the receipt or proof of
+
+[ESCALATION-C04]
+for the inconvenience.
+2. Collect the order number, the receipt or proof of purchase, and the customer's contact details.
+3. Log the case in CaseTrack within 30 minutes. Case numbers use the format CX-YYYY-NNNNN.
+4. Assign the case to the correct tier based on the criteria in Section 2.
+5. Give the customer the case number and the expected response time.
+6. When the case is resolved, confirm the resolution with the customer and close the case. A customer satisfaction survey is sent
+
+[ESCALATION-C05]
+with the customer and close the case. A customer satisfaction survey is sent automatically within 24 hours of closure.
+
+## 5. Safety and Data Privacy Incidents
+
+Issues involving customer safety or a possible data privacy breach bypass the normal tiers. Possible data privacy breaches, such as exposed customer card details or personal data, must be reported immediately to Information Security. Safety incidents must be reported immediately to the Health and Safety team.
+
+## 6. Abusive Behaviour","[IT-C01]
+Every ticket is assigned a priority level, which determines its response and resolution targets:
+Response within 15 minutes; resolution target of 4 hours.
+
+[IT-C02]
+Response within 1 hour; resolution target of 1 business day.
+Response within 4 business hours; resolution target of 3 business days.
+Response within 2 business days; resolution target of 10 business days.",,,,,,,
+Q06,"How much is the home office allowance for hybrid employees, and by when must it be claimed?",direct_lookup,True,"A one-time $300 allowance, claimed within 60 days of the remote work arrangement being approved, with original receipts.","The home office allowance for hybrid employees is $300. The allowance must be claimed within 60 days of the remote work arrangement being approved, and original receipts must be submitted with the claim [REMOTE-C04].","The home office allowance is $300. The allowance must be claimed within 60 days of the remote work arrangement being approved, and original receipts must be submitted with the claim [REMOTE-C04].",True,True,"[REMOTE-C04]
+Hybrid employees receive a one-time home office allowance of $300. The allowance must be claimed within 60 days of the remote work arrangement being approved, and original receipts must be submitted with the claim.
+
+Employees approved to work remotely for 3 days per week, and fully remote employees, receive an internet stipend of $40 per month.
+
+## 7. Security When Working Remotely
+
+Remote employees must follow the Information Security Rules (NRS-SEC-005) at all times. In particular, employees
+
+[REMOTE-C03]
+a Remote Work Arrangement
+
+To request hybrid or fully remote work, the employee must submit the ""Flexible Work Request"" form in the PeopleHub portal. The line manager must respond to the request within 10 working days. Fully remote requests are then forwarded to the Department Head and HR for approval.
+
+## 6. Equipment and Allowances
+
+Hybrid and fully remote employees use their company-issued laptop for all work. Hybrid employees receive a one-time home office allowance of $300. The allowance
+
+[REMOTE-C02]
+Hybrid Work
+
+Eligible HQ employees may work remotely for up to 3 days per week. Tuesday and Thursday are anchor days, and all hybrid employees must work from the HQ office on those days.
+
+## 4. Fully Remote Work
+
+Fully remote work is granted only in exceptional circumstances. It requires approval from both the Department Head and HR, and each fully remote arrangement is reviewed every 6 months.
+
+## 5. How to Request a Remote Work Arrangement
+
+To request hybrid or fully remote work, the employee
+
+[REMOTE-C01]
+may choose their start and finish times in agreement with their line manager.
+
+Store-based employees work rostered shifts published by their Store Manager at least 2 weeks in advance.
+
+## 2. Eligibility for Remote Work
+
+Remote work is not available for store-floor roles or distribution centre roles. HQ employees become eligible for hybrid work after successfully completing their 3-month probation period.
+
+## 3. Hybrid Work
+
+Eligible HQ employees may work remotely for up to 3 days per week.
+
+[LEAVE-C02]
+of 5 unused annual leave days into the next leave year. Carried-over days must be used by 31 March of the new leave year; any carried-over days not used by that date are forfeited. Unused annual leave is paid out when employment ends.
+
+## 3. Requesting Annual Leave
+
+All annual leave must be requested through the PeopleHub portal. Requests for 3 or more consecutive working days must be submitted at least 10 working days before the first day of leave. Requests for 1 or 2 days must be submitted at","[REMOTE-C04]
+Hybrid employees receive a one-time home office allowance of $300.
+The allowance must be claimed within 60 days of the remote work arrangement being approved, and original receipts must be submitted with the claim.
+
+[REMOTE-C03]
+To request hybrid or fully remote work, the employee must submit the ""Flexible Work Request"" form in the PeopleHub portal.
+
+[REMOTE-C02]
+Hybrid Work
+Tuesday and Thursday are anchor days, and all hybrid employees must work from the HQ office on those days.",,,,,,,
+Q07,Which items cannot be returned?,direct_lookup,True,"Final sale items: clearance items marked 'Final Sale', gift cards, personalized or engraved items, perishable food, and opened hygiene products such as cosmetics and earbuds.","The following items are final sale and cannot be returned: clearance items marked ""Final Sale"", gift cards, personalized or engraved items, perishable food, and opened hygiene products such as cosmetics and earbuds [RETURNS-C02].","Clearance items marked ""Final Sale"", gift cards, personalized or engraved items, perishable food, and opened hygiene products such as cosmetics and earbuds [RETURNS-C02].",True,True,"[RETURNS-C02]
+photo ID is required. Each customer is limited to 3 returns without a receipt in any 12-month period.
+
+## 4. Non-Returnable Items
+
+The following items are final sale and cannot be returned: clearance items marked ""Final Sale"", gift cards, personalized or engraved items, perishable food, and opened hygiene products such as cosmetics and earbuds.
+
+## 5. Defective Products
+
+Products that become defective through normal use can be returned within 1 year of purchase under the Northstar warranty. The
+
+[RETURNS-C00]
+# Northstar Retail Systems — Product Return Policy
+
+Document ID: NRS-CX-003
+Owner: Customer Experience
+Effective date: 1 January 2026
+
+## 1. Standard Returns
+
+Most products can be returned within 30 days of purchase with a valid receipt. Returns with a receipt are refunded in full to the original payment method.
+
+## 2. Electronics
+
+Electronics, including laptops, tablets, phones, and headphones, have a return window of 14 days from the date of purchase. Electronics must be returned unopened, or
+
+[RETURNS-C01]
+of 14 days from the date of purchase. Electronics must be returned unopened, or with all original accessories and packaging. Opened electronics that are not defective are subject to a 15% restocking fee. No restocking fee is charged for defective electronics.
+
+## 3. Returns Without a Receipt
+
+Customers without a receipt may receive store credit for the lowest selling price of the item in the previous 60 days. A valid photo ID is required. Each customer is limited to 3 returns without a receipt
+
+[RETURNS-C05]
+with Gold tier membership in the Northstar Rewards program have a 45-day return window for most products. The 45-day window does not apply to electronics.
+
+## 10. Exceptions
+
+Store Managers may approve return exceptions (for example, a return outside the return window) with a value of up to $200. Exceptions above $200 must be escalated according to the Customer Support Escalation Process (NRS-CX-004).
+
+[RETURNS-C03]
+use can be returned within 1 year of purchase under the Northstar warranty. The customer may choose either a replacement or a refund.
+
+## 6. Online Orders
+
+Online orders can be returned in any store or by mail within 30 days of delivery. A free return label is provided when the item is defective or the wrong item was sent. For all other mail returns, a return shipping fee of $6.95 is deducted from the refund.
+
+## 7. Refund Processing Times
+
+Refunds to credit or debit cards are processed within","[RETURNS-C02]
+## 4. Non-Returnable Items
+The following items are final sale and cannot be returned: clearance items marked ""Final Sale"", gift cards, personalized or engraved items, perishable food, and opened hygiene products such as cosmetics and earbuds.
+Products that become defective through normal use can be returned within 1 year of purchase under the Northstar warranty.
+
+[RETURNS-C01]
+Electronics must be returned unopened, or with all original accessories and packaging.
+## 3. Returns Without a Receipt
+
+[RETURNS-C00]
+Most products can be returned within 30 days of purchase with a valid receipt.
+Electronics, including laptops, tablets, phones, and headphones, have a return window of 14 days from the date of purchase.",,,,,,,
+Q08,"How much paid parental leave does a primary caregiver receive, and who is eligible?",direct_lookup,True,16 weeks at full pay; eligible after at least 6 months of continuous service (HR must be notified at least 8 weeks before the start date).,"The primary caregiver receives 16 weeks of leave at full pay. Employees who have completed at least 6 months of continuous service are eligible [LEAVE-C06], [LEAVE-C07].",The primary caregiver receives 16 weeks of leave at full pay. Employees who have completed at least 6 months of continuous service are eligible [LEAVE-C05].,True,True,"[LEAVE-C06]
+The primary caregiver receives 16 weeks of leave at full pay. The secondary caregiver receives 4 weeks of leave at full pay. Employees must notify HR of their intention to take parental leave at least 8 weeks before the expected start date.
+
+## 7. Bereavement Leave
+
+Employees may take up to 5 days of paid bereavement leave following the death of an immediate family member (spouse or partner, child, parent, or sibling) and up to 2 days of paid bereavement leave following the death of an extended
+
+[LEAVE-C05]
+because of illness must notify their line manager before 9:30 AM or before the start of their shift, whichever is earlier.
+
+If a sickness absence lasts more than 3 consecutive working days, the employee must upload a medical certificate to PeopleHub within 2 working days of returning to work.
+
+## 6. Parental Leave
+
+Employees who have completed at least 6 months of continuous service are eligible for paid parental leave. The primary caregiver receives 16 weeks of leave at full pay. The secondary
+
+[LEAVE-C07]
+and up to 2 days of paid bereavement leave following the death of an extended family member (grandparent, grandchild, aunt, uncle, or in-law).
+
+## 8. Unpaid Leave
+
+Employees with at least 1 year of continuous service may request up to 30 days of unpaid leave per leave year. Unpaid leave requires approval from the HR Director.
+
+## 9. Contact
+
+Questions about this policy should be sent to hr@northstar-retail.example or directed to the HR team on internal extension 2100.
+
+[LEAVE-C01]
+Temporary and seasonal workers are covered by their individual employment contracts. The leave year runs from 1 January to 31 December.
+
+## 2. Annual Leave
+
+Full-time employees accrue 1.75 days of paid annual leave for each completed month of service, which equals 21 days per leave year. Part-time employees accrue annual leave on a pro-rata basis according to their contracted hours.
+
+Employees may carry over a maximum of 5 unused annual leave days into the next leave year. Carried-over days
+
+[REMOTE-C04]
+Hybrid employees receive a one-time home office allowance of $300. The allowance must be claimed within 60 days of the remote work arrangement being approved, and original receipts must be submitted with the claim.
+
+Employees approved to work remotely for 3 days per week, and fully remote employees, receive an internet stipend of $40 per month.
+
+## 7. Security When Working Remotely
+
+Remote employees must follow the Information Security Rules (NRS-SEC-005) at all times. In particular, employees","[LEAVE-C06]
+The primary caregiver receives 16 weeks of leave at full pay.
+The secondary caregiver receives 4 weeks of leave at full pay.
+Employees may take up to 5 days of paid bereavement leave following the death of an immediate family member (spouse or partner, child, parent, or sibling) and up to 2 days of paid bereavement leave following the death of an extended
+
+[LEAVE-C05]
+Employees who have completed at least 6 months of continuous service are eligible for paid parental leave.
+
+[LEAVE-C07]
+and up to 2 days of paid bereavement leave following the death of an extended family member (grandparent, grandchild, aunt, uncle, or in-law).",,,,,,,
+Q09,What steps should store staff follow when a POS terminal fails?,multi_step_procedure,True,"1) Restart the terminal and wait 2 minutes; 2) check the network cable at terminal and wall port; 3) move customers to a working backup terminal; 4) if still failing, log a Service Desk ticket: Priority 1 if more than 2 terminals are affected, otherwise Priority 2.","Store staff should follow these steps if a POS terminal fails:
+
+1.  Restart the terminal using the power button and wait 2 minutes.
+2.  Check that the network cable is firmly connected to the terminal and the wall port.
+3.  Move customers to a working backup terminal.
+4.  If the terminal still does not work, log a ticket with the Service Desk. Log it as Priority 1 if more than 2 terminals in the store are affected; otherwise log it as Priority 2 [IT-C08].","Store staff should follow these steps in order:
+3. Move customers to a working backup terminal. [IT-C07]
+4. If the terminal still does not work, log a ticket with the Service Desk. [IT-C08]",True,True,"[IT-C07]
+and wipe the device. If the device was stolen, the employee should also file a police report and add the report number to the HelpPoint ticket.
+
+## 7. POS Terminal Failure Procedure
+
+If a POS terminal fails in a store, store staff should follow these steps in order:
+
+1. Restart the terminal using the power button and wait 2 minutes.
+2. Check that the network cable is firmly connected to the terminal and the wall port.
+3. Move customers to a working backup terminal.
+4. If the terminal still does
+
+[IT-C08]
+3. Move customers to a working backup terminal.
+4. If the terminal still does not work, log a ticket with the Service Desk. Log it as Priority 1 if more than 2 terminals in the store are affected; otherwise log it as Priority 2.
+
+## 8. Returning Equipment
+
+Employees leaving Northstar must return all company equipment, including laptops, phones, badges, and chargers, to IT within 5 working days of their last working day.
+
+[ESCALATION-C06]
+be reported immediately to the Health and Safety team.
+
+## 6. Abusive Behaviour
+
+If a customer becomes abusive, the associate may end the interaction after giving one clear warning. The associate must then inform their Shift Supervisor and record the incident in CaseTrack.
+
+[SECURITY-C03]
+card numbers. Card data may only be processed through approved POS terminals and payment systems.
+
+## 5. Phishing
+
+Employees must not click links or open attachments in suspicious emails. Suspicious emails must be reported using the ""Report Phish"" button in the email client or by forwarding them to security@northstar-retail.example.
+
+## 6. Reporting Security Incidents
+
+All security incidents, including lost or stolen devices, suspected malware, and possible data breaches, must be reported to
+
+[ESCALATION-C00]
+# Northstar Retail Systems — Customer Support Escalation Process
+
+Document ID: NRS-CX-004
+Owner: Customer Experience
+Effective date: 1 January 2026
+
+## 1. Purpose
+
+This process defines how customer complaints and issues are escalated so that every customer receives a timely and consistent response. It applies to all store associates, contact center agents, supervisors, and managers.
+
+## 2. Support Tiers
+
+Tier 1 — Frontline associates and contact center agents. Tier 1 staff should try to resolve","[IT-C07]
+## 7. POS Terminal Failure Procedure
+If a POS terminal fails in a store, store staff should follow these steps in order:
+3. Move customers to a working backup terminal.
+
+[ESCALATION-C03]
+When escalating a customer issue, staff must follow these steps:
+
+[IT-C08]
+4. If the terminal still does not work, log a ticket with the Service Desk.",,,,,,,
+Q10,What are the steps for escalating a customer complaint?,multi_step_procedure,True,"1) Acknowledge and apologize; 2) collect order number, receipt/proof of purchase and contact details; 3) log the case in CaseTrack within 30 minutes (CX-YYYY-NNNNN); 4) assign the correct tier; 5) give the customer the case number and expected response time; 6) confirm resolution, close the case; survey sent within 24 hours.","Here’s how to escalate a customer complaint according to the provided documents:
+
+1.  Acknowledge the customer's concern and apologize for the inconvenience.
+2.  Collect the order number, the receipt or proof of purchase, and the customer’s contact details.
+3.  Log the case in CaseTrack within 30 minutes. Case numbers use the format CX-YYYY-NNNNN.
+4.  Assign the case to the correct tier based on the criteria in Section 2.
+5.  Give the customer the case number and the expected response time.
+6.  When the case is resolved, confirm the resolution with the customer and close the case. A customer satisfaction survey is sent [ESCALATION-C05].
+
+[ESCALATION-C00], [ESCALATION-C03], [ESCALATION-C04]","When escalating a customer issue, staff must follow these steps: [ESCALATION-C00]",True,True,"[ESCALATION-C00]
+# Northstar Retail Systems — Customer Support Escalation Process
+
+Document ID: NRS-CX-004
+Owner: Customer Experience
+Effective date: 1 January 2026
+
+## 1. Purpose
+
+This process defines how customer complaints and issues are escalated so that every customer receives a timely and consistent response. It applies to all store associates, contact center agents, supervisors, and managers.
+
+## 2. Support Tiers
+
+Tier 1 — Frontline associates and contact center agents. Tier 1 staff should try to resolve
+
+[ESCALATION-C04]
+for the inconvenience.
+2. Collect the order number, the receipt or proof of purchase, and the customer's contact details.
+3. Log the case in CaseTrack within 30 minutes. Case numbers use the format CX-YYYY-NNNNN.
+4. Assign the case to the correct tier based on the criteria in Section 2.
+5. Give the customer the case number and the expected response time.
+6. When the case is resolved, confirm the resolution with the customer and close the case. A customer satisfaction survey is sent
+
+[ESCALATION-C03]
+Time Targets
+
+Tier 2 must acknowledge an escalated case within 4 business hours. Tier 3 must acknowledge an escalated case within 1 business day. For every open escalated case, the customer must receive a status update at least every 2 business days until the case is resolved.
+
+## 4. Escalation Steps
+
+When escalating a customer issue, staff must follow these steps:
+
+1. Acknowledge the customer's concern and apologize for the inconvenience.
+2. Collect the order number, the receipt or proof of
+
+[ESCALATION-C05]
+with the customer and close the case. A customer satisfaction survey is sent automatically within 24 hours of closure.
+
+## 5. Safety and Data Privacy Incidents
+
+Issues involving customer safety or a possible data privacy breach bypass the normal tiers. Possible data privacy breaches, such as exposed customer card details or personal data, must be reported immediately to Information Security. Safety incidents must be reported immediately to the Health and Safety team.
+
+## 6. Abusive Behaviour
+
+[ESCALATION-C02]
+Managers may approve exceptions with a value of up to $200.
+
+Tier 3 — Regional Customer Experience Manager. An issue must be escalated to Tier 3 if the exception value is above $200 and up to $1,000, if the customer makes a legal threat, if the media is involved, or if the case has already been escalated twice. Exceptions with a value above $1,000 require approval from the Director of Customer Experience.
+
+## 3. Response Time Targets
+
+Tier 2 must acknowledge an escalated case within 4 business","[ESCALATION-C03]
+For every open escalated case, the customer must receive a status update at least every 2 business days until the case is resolved.
+## 4. Escalation Steps
+When escalating a customer issue, staff must follow these steps:
+
+[ESCALATION-C00]
+# Northstar Retail Systems — Customer Support Escalation Process
+This process defines how customer complaints and issues are escalated so that every customer receives a timely and consistent response.",,,,,,,
+Q11,"How should an employee request one week of annual leave, and how long does the manager have to respond?",multi_step_procedure,True,Submit the request in PeopleHub at least 10 working days before the first day (3+ consecutive days); the line manager must approve or decline within 3 working days; leave is confirmed only when it shows 'Approved' in PeopleHub.,Requests for 1 or 2 days must be submitted at least 2 working days in advance [LEAVE-C03]. Requests for 3 or more consecutive working days must be submitted at least 10 working days before the first day of leave [LEAVE-C01]. The employee’s line manager must approve or decline the request in PeopleHub within 3 working days of submission [LEAVE-C03].,"Requests for 3 or more consecutive working days must be submitted at least 10 working days before the first day of leave [LEAVE-C02]. For requests of 1 or 2 days, they must be submitted at least 2 working days in advance [LEAVE-C03]. The employee’s line manager must approve or decline the request in PeopleHub within 3 working days of submission [LEAVE-C03].",True,True,"[LEAVE-C02]
+of 5 unused annual leave days into the next leave year. Carried-over days must be used by 31 March of the new leave year; any carried-over days not used by that date are forfeited. Unused annual leave is paid out when employment ends.
+
+## 3. Requesting Annual Leave
+
+All annual leave must be requested through the PeopleHub portal. Requests for 3 or more consecutive working days must be submitted at least 10 working days before the first day of leave. Requests for 1 or 2 days must be submitted at
+
+[LEAVE-C01]
+Temporary and seasonal workers are covered by their individual employment contracts. The leave year runs from 1 January to 31 December.
+
+## 2. Annual Leave
+
+Full-time employees accrue 1.75 days of paid annual leave for each completed month of service, which equals 21 days per leave year. Part-time employees accrue annual leave on a pro-rata basis according to their contracted hours.
+
+Employees may carry over a maximum of 5 unused annual leave days into the next leave year. Carried-over days
+
+[LEAVE-C07]
+and up to 2 days of paid bereavement leave following the death of an extended family member (grandparent, grandchild, aunt, uncle, or in-law).
+
+## 8. Unpaid Leave
+
+Employees with at least 1 year of continuous service may request up to 30 days of unpaid leave per leave year. Unpaid leave requires approval from the HR Director.
+
+## 9. Contact
+
+Questions about this policy should be sent to hr@northstar-retail.example or directed to the HR team on internal extension 2100.
+
+[LEAVE-C03]
+before the first day of leave. Requests for 1 or 2 days must be submitted at least 2 working days in advance. The employee's line manager must approve or decline the request in PeopleHub within 3 working days of submission. Leave is not confirmed until it shows as ""Approved"" in PeopleHub.
+
+## 4. Peak Season Blackout for Store Staff
+
+Because of high customer demand, store-based employees may not take annual leave between 20 November and 2 January (the peak season blackout period). In exceptional
+
+[LEAVE-C04]
+20 November and 2 January (the peak season blackout period). In exceptional circumstances, a store-based employee may take leave during the blackout period only with written approval from their Regional Manager. The blackout period does not apply to HQ employees.
+
+## 5. Sick Leave
+
+Employees receive 10 days of paid sick leave per leave year. Unused sick leave does not carry over. An employee who is unable to work because of illness must notify their line manager before 9:30 AM or before the","[LEAVE-C03]
+Requests for 1 or 2 days must be submitted at least 2 working days in advance.
+The employee's line manager must approve or decline the request in PeopleHub within 3 working days of submission.
+
+[LEAVE-C02]
+## 3. Requesting Annual Leave
+Requests for 3 or more consecutive working days must be submitted at least 10 working days before the first day of leave.
+
+[LEAVE-C07]
+Employees with at least 1 year of continuous service may request up to 30 days of unpaid leave per leave year.",,,,,,,
+Q12,What should an employee do if their account is locked after too many failed sign-in attempts?,multi_step_procedure,True,"After 5 failed attempts the account is locked for 30 minutes. They can use HelpPoint self-service reset (requires MFA); if they cannot, call the Service Desk on extension 4357, provide their employee ID, and have identity verified by their line manager before unlocking.","An employee who is locked out and cannot use self-service must call the Service Desk on extension 4357, provide their employee ID, and have their [IT-C03] account unlocked.","An employee who is locked out and cannot use self-service must call the Service Desk on extension 4357, provide their employee ID, and have their [IT-C03] account unlocked.",True,True,"[IT-C03]
+days; resolution target of 10 business days.
+
+## 3. Password Resets and Account Lockouts
+
+Employees can reset a forgotten password themselves through the self-service option in the HelpPoint portal, which requires multi-factor authentication (MFA). After 5 consecutive failed sign-in attempts, the account is automatically locked for 30 minutes. An employee who is locked out and cannot use self-service must call the Service Desk on extension 4357, provide their employee ID, and have their
+
+[IT-C07]
+and wipe the device. If the device was stolen, the employee should also file a police report and add the report number to the HelpPoint ticket.
+
+## 7. POS Terminal Failure Procedure
+
+If a POS terminal fails in a store, store staff should follow these steps in order:
+
+1. Restart the terminal using the power button and wait 2 minutes.
+2. Check that the network cable is firmly connected to the terminal and the wall port.
+3. Move customers to a working backup terminal.
+4. If the terminal still does
+
+[SECURITY-C01]
+be at least 14 characters long. Passwords must be changed every 180 days, and immediately if a compromise is suspected. Employees may not reuse any of their last 10 passwords. Passwords must never be shared, including with managers or IT staff.
+
+Multi-factor authentication (MFA) is mandatory for company email, the HelpPoint portal, the PeopleHub portal, and the NorthLink VPN.
+
+## 3. Data Classification
+
+All Northstar information is classified into one of four levels: Public, Internal,
+
+[SECURITY-C03]
+card numbers. Card data may only be processed through approved POS terminals and payment systems.
+
+## 5. Phishing
+
+Employees must not click links or open attachments in suspicious emails. Suspicious emails must be reported using the ""Report Phish"" button in the email client or by forwarding them to security@northstar-retail.example.
+
+## 6. Reporting Security Incidents
+
+All security incidents, including lost or stolen devices, suspected malware, and possible data breaches, must be reported to
+
+[SECURITY-C04]
+devices, suspected malware, and possible data breaches, must be reported to Information Security within 1 hour of discovery. Incidents can be reported by email to security@northstar-retail.example or by phone on internal extension 4400.
+
+## 7. Devices and Removable Media
+
+Computers must lock automatically after 5 minutes of inactivity, and employees must lock their screen manually whenever they leave their device unattended. USB storage devices are prohibited unless they are encrypted devices","[IT-C03]
+After 5 consecutive failed sign-in attempts, the account is automatically locked for 30 minutes.
+An employee who is locked out and cannot use self-service must call the Service Desk on extension 4357, provide their employee ID, and have their
+
+[IT-C07]
+If the device was stolen, the employee should also file a police report and add the report number to the HelpPoint ticket.
+If a POS terminal fails in a store, store staff should follow these steps in order:
+
+[SECURITY-C04]
+Computers must lock automatically after 5 minutes of inactivity, and employees must lock their screen manually whenever they leave their device unattended.",,,,,,,
+Q13,How does an HQ employee apply for a hybrid work arrangement?,multi_step_procedure,True,"Must first complete the 3-month probation; submit the 'Flexible Work Request' form in PeopleHub; the line manager must respond within 10 working days. Hybrid allows up to 3 remote days per week, with Tuesday and Thursday as in-office anchor days.","Eligible HQ employees may request a hybrid or fully remote work arrangement by submitting the “Flexible Work Request” form in the PeopleHub portal [REMOTE-C03]. The line manager must respond to the request within 10 working days, and fully remote requests are then forwarded to the Department Head and HR for approval [REMOTE-C03].","To request hybrid or fully remote work, the employee must submit the ""Flexible Work Request"" form in the PeopleHub portal [REMOTE-C03].",True,True,"[REMOTE-C02]
+Hybrid Work
+
+Eligible HQ employees may work remotely for up to 3 days per week. Tuesday and Thursday are anchor days, and all hybrid employees must work from the HQ office on those days.
+
+## 4. Fully Remote Work
+
+Fully remote work is granted only in exceptional circumstances. It requires approval from both the Department Head and HR, and each fully remote arrangement is reviewed every 6 months.
+
+## 5. How to Request a Remote Work Arrangement
+
+To request hybrid or fully remote work, the employee
+
+[REMOTE-C01]
+may choose their start and finish times in agreement with their line manager.
+
+Store-based employees work rostered shifts published by their Store Manager at least 2 weeks in advance.
+
+## 2. Eligibility for Remote Work
+
+Remote work is not available for store-floor roles or distribution centre roles. HQ employees become eligible for hybrid work after successfully completing their 3-month probation period.
+
+## 3. Hybrid Work
+
+Eligible HQ employees may work remotely for up to 3 days per week.
+
+[REMOTE-C03]
+a Remote Work Arrangement
+
+To request hybrid or fully remote work, the employee must submit the ""Flexible Work Request"" form in the PeopleHub portal. The line manager must respond to the request within 10 working days. Fully remote requests are then forwarded to the Department Head and HR for approval.
+
+## 6. Equipment and Allowances
+
+Hybrid and fully remote employees use their company-issued laptop for all work. Hybrid employees receive a one-time home office allowance of $300. The allowance
+
+[REMOTE-C04]
+Hybrid employees receive a one-time home office allowance of $300. The allowance must be claimed within 60 days of the remote work arrangement being approved, and original receipts must be submitted with the claim.
+
+Employees approved to work remotely for 3 days per week, and fully remote employees, receive an internet stipend of $40 per month.
+
+## 7. Security When Working Remotely
+
+Remote employees must follow the Information Security Rules (NRS-SEC-005) at all times. In particular, employees
+
+[REMOTE-C00]
+# Northstar Retail Systems — Remote Work and Office Hours Policy
+
+Document ID: NRS-HR-006
+Owner: Human Resources
+Effective date: 1 January 2026
+
+## 1. Office Hours
+
+The standard working week is 40 hours. The HQ office building is open from 7:00 AM to 8:00 PM, Monday to Friday. All HQ employees must be available during core hours, which are 10:00 AM to 3:00 PM, Monday to Friday. Outside core hours, HQ employees may choose their start and finish times in agreement with their line manager.","[REMOTE-C02]
+Eligible HQ employees may work remotely for up to 3 days per week.
+Tuesday and Thursday are anchor days, and all hybrid employees must work from the HQ office on those days.
+
+[REMOTE-C03]
+To request hybrid or fully remote work, the employee must submit the ""Flexible Work Request"" form in the PeopleHub portal.
+Hybrid employees receive a one-time home office allowance of $300.
+
+[REMOTE-C01]
+HQ employees become eligible for hybrid work after successfully completing their 3-month probation period.",,,,,,,
+Q14,What is the process for getting software installed that is not in the Approved Software Catalogue?,multi_step_procedure,True,Submit a Software Request ticket in HelpPoint with a business justification and line manager approval; Information Security performs a security review (up to 10 business days); IT installs the software only if the review is passed.,"To request software that is not in the catalogue, the employee must submit a Software Request ticket in HelpPoint with a business justification and line manager approval. The request is then sent to Information Security for a security review, which can take up to 10 business days [IT-C05], [IT-C06].","To request software that is not in the catalogue, the employee must submit a Software Request ticket in HelpPoint with a business justification and line manager approval [IT-C05].",True,True,"[IT-C05]
+from IT Procurement and is delivered within 15 business days of approval.
+
+## 5. Software Installation
+
+Employees may only install software listed in the Approved Software Catalogue, which is available in HelpPoint. To request software that is not in the catalogue, the employee must submit a Software Request ticket in HelpPoint with a business justification and line manager approval. The request is then sent to Information Security for a security review, which can take up to 10 business days.
+
+[IT-C06]
+Security for a security review, which can take up to 10 business days. The software is installed by IT only if the security review is passed.
+
+## 6. Lost or Stolen Devices
+
+If a company laptop, phone, or tablet is lost or stolen, the employee must report it to the Service Desk within 1 hour of discovering the loss. The employee must also report it to Information Security as a security incident. IT will remotely lock and wipe the device. If the device was stolen, the employee should also file a
+
+[IT-C04]
+the Service Desk on extension 4357, provide their employee ID, and have their identity verified by their line manager before the account is unlocked.
+
+## 4. Hardware Requests
+
+New hardware must be requested through HelpPoint and requires line manager approval. Standard laptops from the approved hardware list are delivered within 5 business days of approval. Non-standard hardware requires additional approval from IT Procurement and is delivered within 15 business days of approval.
+
+## 5.
+
+[RETURNS-C02]
+photo ID is required. Each customer is limited to 3 returns without a receipt in any 12-month period.
+
+## 4. Non-Returnable Items
+
+The following items are final sale and cannot be returned: clearance items marked ""Final Sale"", gift cards, personalized or engraved items, perishable food, and opened hygiene products such as cosmetics and earbuds.
+
+## 5. Defective Products
+
+Products that become defective through normal use can be returned within 1 year of purchase under the Northstar warranty. The
+
+[RETURNS-C01]
+of 14 days from the date of purchase. Electronics must be returned unopened, or with all original accessories and packaging. Opened electronics that are not defective are subject to a 15% restocking fee. No restocking fee is charged for defective electronics.
+
+## 3. Returns Without a Receipt
+
+Customers without a receipt may receive store credit for the lowest selling price of the item in the previous 60 days. A valid photo ID is required. Each customer is limited to 3 returns without a receipt","[IT-C05]
+## 5. Software Installation
+Employees may only install software listed in the Approved Software Catalogue, which is available in HelpPoint.
+To request software that is not in the catalogue, the employee must submit a Software Request ticket in HelpPoint with a business justification and line manager approval.
+
+[SECURITY-C05]
+Only software from the Approved Software Catalogue may be installed; any other software requires a security review by Information Security.
+
+[IT-C04]
+Non-standard hardware requires additional approval from IT Procurement and is delivered within 15 business days of approval.",,,,,,,
+Q15,"A remote employee's company laptop was stolen. Who must they report it to, and within what time limit?",cross_document,True,Report to the IT Service Desk within 1 hour of discovery and to Information Security as a security incident within 1 hour (security@northstar-retail.example or extension 4400). IT will remotely lock and wipe the device; also file a police report and add the number to the HelpPoint ticket.,The employee must report it to the Service Desk within 1 hour of discovering the loss [IT-C06]. They should also report it to Information Security as a security incident [IT-C07] and file a police report [IT-C07].,The employee must report it to the Service Desk within 1 hour of discovering the loss [IT-C06]. They should also file a police report and add the report number to the HelpPoint ticket [IT-C07].,True,True,"[IT-C06]
+Security for a security review, which can take up to 10 business days. The software is installed by IT only if the security review is passed.
+
+## 6. Lost or Stolen Devices
+
+If a company laptop, phone, or tablet is lost or stolen, the employee must report it to the Service Desk within 1 hour of discovering the loss. The employee must also report it to Information Security as a security incident. IT will remotely lock and wipe the device. If the device was stolen, the employee should also file a
+
+[IT-C07]
+and wipe the device. If the device was stolen, the employee should also file a police report and add the report number to the HelpPoint ticket.
+
+## 7. POS Terminal Failure Procedure
+
+If a POS terminal fails in a store, store staff should follow these steps in order:
+
+1. Restart the terminal using the power button and wait 2 minutes.
+2. Check that the network cable is firmly connected to the terminal and the wall port.
+3. Move customers to a working backup terminal.
+4. If the terminal still does
+
+[SECURITY-C04]
+devices, suspected malware, and possible data breaches, must be reported to Information Security within 1 hour of discovery. Incidents can be reported by email to security@northstar-retail.example or by phone on internal extension 4400.
+
+## 7. Devices and Removable Media
+
+Computers must lock automatically after 5 minutes of inactivity, and employees must lock their screen manually whenever they leave their device unattended. USB storage devices are prohibited unless they are encrypted devices
+
+[IT-C04]
+the Service Desk on extension 4357, provide their employee ID, and have their identity verified by their line manager before the account is unlocked.
+
+## 4. Hardware Requests
+
+New hardware must be requested through HelpPoint and requires line manager approval. Standard laptops from the approved hardware list are delivered within 5 business days of approval. Non-standard hardware requires additional approval from IT Procurement and is delivered within 15 business days of approval.
+
+## 5.
+
+[IT-C03]
+days; resolution target of 10 business days.
+
+## 3. Password Resets and Account Lockouts
+
+Employees can reset a forgotten password themselves through the self-service option in the HelpPoint portal, which requires multi-factor authentication (MFA). After 5 consecutive failed sign-in attempts, the account is automatically locked for 30 minutes. An employee who is locked out and cannot use self-service must call the Service Desk on extension 4357, provide their employee ID, and have their","[IT-C06]
+If a company laptop, phone, or tablet is lost or stolen, the employee must report it to the Service Desk within 1 hour of discovering the loss.
+The employee must also report it to Information Security as a security incident.
+
+[SECURITY-C04]
+devices, suspected malware, and possible data breaches, must be reported to Information Security within 1 hour of discovery.
+Computers must lock automatically after 5 minutes of inactivity, and employees must lock their screen manually whenever they leave their device unattended.
+
+[IT-C07]
+If the device was stolen, the employee should also file a police report and add the report number to the HelpPoint ticket.",,,,,,,
+Q16,"A customer requests a return exception worth $350. Who can approve it, and how quickly must the case be acknowledged?",cross_document,True,"Above the Store Manager's $200 limit, so it must be escalated to Tier 3, the Regional Customer Experience Manager (covers above $200 up to $1,000), who must acknowledge the case within 1 business day.",Exceptions with a value above $200 must be escalated according to the Customer Support Escalation Process (NRS-CX-004) [ESCALATION-C02]. Tier 2 must acknowledge an escalated case within 4 business days [RETURNS-C01].,Exceptions above $200 must be escalated according to the Customer Support Escalation Process (NRS-CX-004). [RETURNS-C05],True,True,"[ESCALATION-C02]
+Managers may approve exceptions with a value of up to $200.
+
+Tier 3 — Regional Customer Experience Manager. An issue must be escalated to Tier 3 if the exception value is above $200 and up to $1,000, if the customer makes a legal threat, if the media is involved, or if the case has already been escalated twice. Exceptions with a value above $1,000 require approval from the Director of Customer Experience.
+
+## 3. Response Time Targets
+
+Tier 2 must acknowledge an escalated case within 4 business
+
+[RETURNS-C02]
+photo ID is required. Each customer is limited to 3 returns without a receipt in any 12-month period.
+
+## 4. Non-Returnable Items
+
+The following items are final sale and cannot be returned: clearance items marked ""Final Sale"", gift cards, personalized or engraved items, perishable food, and opened hygiene products such as cosmetics and earbuds.
+
+## 5. Defective Products
+
+Products that become defective through normal use can be returned within 1 year of purchase under the Northstar warranty. The
+
+[RETURNS-C03]
+use can be returned within 1 year of purchase under the Northstar warranty. The customer may choose either a replacement or a refund.
+
+## 6. Online Orders
+
+Online orders can be returned in any store or by mail within 30 days of delivery. A free return label is provided when the item is defective or the wrong item was sent. For all other mail returns, a return shipping fee of $6.95 is deducted from the refund.
+
+## 7. Refund Processing Times
+
+Refunds to credit or debit cards are processed within
+
+[RETURNS-C01]
+of 14 days from the date of purchase. Electronics must be returned unopened, or with all original accessories and packaging. Opened electronics that are not defective are subject to a 15% restocking fee. No restocking fee is charged for defective electronics.
+
+## 3. Returns Without a Receipt
+
+Customers without a receipt may receive store credit for the lowest selling price of the item in the previous 60 days. A valid photo ID is required. Each customer is limited to 3 returns without a receipt
+
+[RETURNS-C05]
+with Gold tier membership in the Northstar Rewards program have a 45-day return window for most products. The 45-day window does not apply to electronics.
+
+## 10. Exceptions
+
+Store Managers may approve return exceptions (for example, a return outside the return window) with a value of up to $200. Exceptions above $200 must be escalated according to the Customer Support Escalation Process (NRS-CX-004).","[ESCALATION-C02]
+An issue must be escalated to Tier 3 if the exception value is above $200 and up to $1,000, if the customer makes a legal threat, if the media is involved, or if the case has already been escalated twice.
+Exceptions with a value above $1,000 require approval from the Director of Customer Experience.
+
+[RETURNS-C05]
+Store Managers may approve return exceptions (for example, a return outside the return window) with a value of up to $200.
+Exceptions above $200 must be escalated according to the Customer Support Escalation Process (NRS-CX-004).
+
+[ESCALATION-C01]
+Store Managers may approve exceptions with a value of up to $200.",,,,,,,
+Q17,What security rules apply when a hybrid employee works from a café?,cross_document,True,Connect through the NorthLink VPN before accessing Northstar systems on public Wi-Fi; do not view or work on Confidential or Restricted data in public places such as cafés; lock the screen when leaving the device unattended (auto-lock after 5 minutes).,"Remote employees must follow the Information Security Rules (NRS-SEC-005) at all times. In particular, employees must connect through the NorthLink VPN before accessing Northstar systems, and must not work on Confidential or Restricted data in public places [REMOTE-C05].",I cannot find the answer in the provided documents.,True,True,"[REMOTE-C04]
+Hybrid employees receive a one-time home office allowance of $300. The allowance must be claimed within 60 days of the remote work arrangement being approved, and original receipts must be submitted with the claim.
+
+Employees approved to work remotely for 3 days per week, and fully remote employees, receive an internet stipend of $40 per month.
+
+## 7. Security When Working Remotely
+
+Remote employees must follow the Information Security Rules (NRS-SEC-005) at all times. In particular, employees
+
+[REMOTE-C03]
+a Remote Work Arrangement
+
+To request hybrid or fully remote work, the employee must submit the ""Flexible Work Request"" form in the PeopleHub portal. The line manager must respond to the request within 10 working days. Fully remote requests are then forwarded to the Department Head and HR for approval.
+
+## 6. Equipment and Allowances
+
+Hybrid and fully remote employees use their company-issued laptop for all work. Hybrid employees receive a one-time home office allowance of $300. The allowance
+
+[REMOTE-C02]
+Hybrid Work
+
+Eligible HQ employees may work remotely for up to 3 days per week. Tuesday and Thursday are anchor days, and all hybrid employees must work from the HQ office on those days.
+
+## 4. Fully Remote Work
+
+Fully remote work is granted only in exceptional circumstances. It requires approval from both the Department Head and HR, and each fully remote arrangement is reviewed every 6 months.
+
+## 5. How to Request a Remote Work Arrangement
+
+To request hybrid or fully remote work, the employee
+
+[REMOTE-C01]
+may choose their start and finish times in agreement with their line manager.
+
+Store-based employees work rostered shifts published by their Store Manager at least 2 weeks in advance.
+
+## 2. Eligibility for Remote Work
+
+Remote work is not available for store-floor roles or distribution centre roles. HQ employees become eligible for hybrid work after successfully completing their 3-month probation period.
+
+## 3. Hybrid Work
+
+Eligible HQ employees may work remotely for up to 3 days per week.
+
+[REMOTE-C05]
+Information Security Rules (NRS-SEC-005) at all times. In particular, employees must connect through the NorthLink VPN before accessing Northstar systems, and must not work on Confidential or Restricted data in public places.
+
+## 8. Working From Abroad
+
+Employees may work from another country for up to 10 working days per calendar year. Working from abroad requires HR approval, and the request must be submitted at least 15 working days before travel.
+
+## 9. Availability
+
+During core hours,","[REMOTE-C04]
+Hybrid employees receive a one-time home office allowance of $300.
+
+[REMOTE-C02]
+Hybrid Work
+Tuesday and Thursday are anchor days, and all hybrid employees must work from the HQ office on those days.
+
+[REMOTE-C03]
+To request hybrid or fully remote work, the employee must submit the ""Flexible Work Request"" form in the PeopleHub portal.
+Hybrid and fully remote employees use their company-issued laptop for all work.",,,,,,,
+Q18,A customer tells a store associate that their card details may have been exposed. How should this be handled?,cross_document,True,"It is a possible data privacy breach, which bypasses the normal escalation tiers and must be reported immediately to Information Security; security incidents must be reported within 1 hour of discovery via security@northstar-retail.example or extension 4400.","Possible data privacy breaches, such as exposed customer card details or personal data, must be reported immediately to Information Security [SECURITY-C05]. [ESCALATION-C05]","Possible data privacy breaches, such as exposed customer card details or personal data, must be reported immediately to Information Security [ESCALATION-C05].",True,True,"[SECURITY-C03]
+card numbers. Card data may only be processed through approved POS terminals and payment systems.
+
+## 5. Phishing
+
+Employees must not click links or open attachments in suspicious emails. Suspicious emails must be reported using the ""Report Phish"" button in the email client or by forwarding them to security@northstar-retail.example.
+
+## 6. Reporting Security Incidents
+
+All security incidents, including lost or stolen devices, suspected malware, and possible data breaches, must be reported to
+
+[SECURITY-C02]
+Northstar information is classified into one of four levels: Public, Internal, Confidential, or Restricted. Restricted data includes customer payment card data and employee health records. Restricted data must always be encrypted, must never be stored on personal devices, and must never be sent from or to personal email accounts.
+
+## 4. Payment Card Data
+
+Staff must never write down, photograph, or store full customer card numbers. Card data may only be processed through approved POS terminals
+
+[ESCALATION-C05]
+with the customer and close the case. A customer satisfaction survey is sent automatically within 24 hours of closure.
+
+## 5. Safety and Data Privacy Incidents
+
+Issues involving customer safety or a possible data privacy breach bypass the normal tiers. Possible data privacy breaches, such as exposed customer card details or personal data, must be reported immediately to Information Security. Safety incidents must be reported immediately to the Health and Safety team.
+
+## 6. Abusive Behaviour
+
+[ESCALATION-C06]
+be reported immediately to the Health and Safety team.
+
+## 6. Abusive Behaviour
+
+If a customer becomes abusive, the associate may end the interaction after giving one clear warning. The associate must then inform their Shift Supervisor and record the incident in CaseTrack.
+
+[ESCALATION-C01]
+associates and contact center agents. Tier 1 staff should try to resolve the issue at first contact. Tier 1 staff may issue a goodwill credit of up to $50 without further approval.
+
+Tier 2 — Shift Supervisors and Store Managers. An issue must be escalated to Tier 2 if the customer asks to speak to a manager, if the resolution involves more than $50, or if the issue has not been resolved within 24 hours. Store Managers may approve exceptions with a value of up to $200.
+
+Tier 3 — Regional","[ESCALATION-C05]
+with the customer and close the case.
+Possible data privacy breaches, such as exposed customer card details or personal data, must be reported immediately to Information Security.
+
+[ESCALATION-C06]
+If a customer becomes abusive, the associate may end the interaction after giving one clear warning.
+The associate must then inform their Shift Supervisor and record the incident in CaseTrack.
+
+[ESCALATION-C01]
+An issue must be escalated to Tier 2 if the customer asks to speak to a manager, if the resolution involves more than $50, or if the issue has not been resolved within 24 hours.",,,,,,,
+Q19,"Which systems require multi-factor authentication, and how can an employee reset a forgotten password?",cross_document,True,"MFA is mandatory for company email, HelpPoint, PeopleHub and the NorthLink VPN. A forgotten password can be reset via the self-service option in HelpPoint (which requires MFA).","Multi-factor authentication (MFA) is mandatory for company email, the HelpPoint portal, the PeopleHub portal, and the NorthLink VPN [SECURITY-C01], [IT-C07]. An employee can reset a forgotten password themselves through the self-service option in the HelpPoint portal, which requires multi-factor authentication (MFA) [IT-C03].","Employees may not reuse any of their last 10 passwords [SECURITY-C01]. Employees can reset a forgotten password themselves through the self-service option in the HelpPoint portal, which requires multi-factor authentication (MFA) [IT-C03]. [SECURITY-C00]",True,True,"[IT-C03]
+days; resolution target of 10 business days.
+
+## 3. Password Resets and Account Lockouts
+
+Employees can reset a forgotten password themselves through the self-service option in the HelpPoint portal, which requires multi-factor authentication (MFA). After 5 consecutive failed sign-in attempts, the account is automatically locked for 30 minutes. An employee who is locked out and cannot use self-service must call the Service Desk on extension 4357, provide their employee ID, and have their
+
+[SECURITY-C01]
+be at least 14 characters long. Passwords must be changed every 180 days, and immediately if a compromise is suspected. Employees may not reuse any of their last 10 passwords. Passwords must never be shared, including with managers or IT staff.
+
+Multi-factor authentication (MFA) is mandatory for company email, the HelpPoint portal, the PeopleHub portal, and the NorthLink VPN.
+
+## 3. Data Classification
+
+All Northstar information is classified into one of four levels: Public, Internal,
+
+[SECURITY-C00]
+# Northstar Retail Systems — Information Security Rules
+
+Document ID: NRS-SEC-005
+Owner: Information Security
+Effective date: 1 January 2026
+
+## 1. Purpose
+
+These rules protect Northstar's systems, customer data, and employee data. They apply to all employees, contractors, and temporary staff who use Northstar systems or handle Northstar information.
+
+## 2. Passwords and Multi-Factor Authentication
+
+Passwords must be at least 14 characters long. Passwords must be changed every 180 days, and
+
+[IT-C07]
+and wipe the device. If the device was stolen, the employee should also file a police report and add the report number to the HelpPoint ticket.
+
+## 7. POS Terminal Failure Procedure
+
+If a POS terminal fails in a store, store staff should follow these steps in order:
+
+1. Restart the terminal using the power button and wait 2 minutes.
+2. Check that the network cable is firmly connected to the terminal and the wall port.
+3. Move customers to a working backup terminal.
+4. If the terminal still does
+
+[SECURITY-C04]
+devices, suspected malware, and possible data breaches, must be reported to Information Security within 1 hour of discovery. Incidents can be reported by email to security@northstar-retail.example or by phone on internal extension 4400.
+
+## 7. Devices and Removable Media
+
+Computers must lock automatically after 5 minutes of inactivity, and employees must lock their screen manually whenever they leave their device unattended. USB storage devices are prohibited unless they are encrypted devices","[IT-C03]
+## 3. Password Resets and Account Lockouts
+Employees can reset a forgotten password themselves through the self-service option in the HelpPoint portal, which requires multi-factor authentication (MFA).
+
+[SECURITY-C01]
+Employees may not reuse any of their last 10 passwords.
+Multi-factor authentication (MFA) is mandatory for company email, the HelpPoint portal, the PeopleHub portal, and the NorthLink VPN.
+
+[SECURITY-C00]
+## 2. Passwords and Multi-Factor Authentication",,,,,,,
+Q20,"A customer returns an opened, non-defective laptop bought 10 days ago and asks for a $40 goodwill credit for the inconvenience. What rules apply?",cross_document,True,"The laptop is within the 14-day electronics window, but as opened and non-defective it is subject to a 15% restocking fee. A Tier 1 associate may issue a goodwill credit of up to $50 without further approval, so $40 is within Tier 1 authority.","Opened electronics that are not defective are subject to a 15% restocking fee [RETURNS-C01]. No restocking fee is charged for defective electronics [RETURNS-C05]. The standard return window for electronics is 14 days from the date of purchase [RETURNS-C02], [RETURNS-C03].",Opened electronics that are not defective are subject to a 15% restocking fee [RETURNS-C01]. Customers without a receipt may receive store credit for the lowest selling price of the item in the previous 60 days [RETURNS-C02]. Tier 1 staff may issue a goodwill credit of up to $50 without further approval [ESCALATION-C01].,True,True,"[RETURNS-C01]
+of 14 days from the date of purchase. Electronics must be returned unopened, or with all original accessories and packaging. Opened electronics that are not defective are subject to a 15% restocking fee. No restocking fee is charged for defective electronics.
+
+## 3. Returns Without a Receipt
+
+Customers without a receipt may receive store credit for the lowest selling price of the item in the previous 60 days. A valid photo ID is required. Each customer is limited to 3 returns without a receipt
+
+[RETURNS-C02]
+photo ID is required. Each customer is limited to 3 returns without a receipt in any 12-month period.
+
+## 4. Non-Returnable Items
+
+The following items are final sale and cannot be returned: clearance items marked ""Final Sale"", gift cards, personalized or engraved items, perishable food, and opened hygiene products such as cosmetics and earbuds.
+
+## 5. Defective Products
+
+Products that become defective through normal use can be returned within 1 year of purchase under the Northstar warranty. The
+
+[RETURNS-C05]
+with Gold tier membership in the Northstar Rewards program have a 45-day return window for most products. The 45-day window does not apply to electronics.
+
+## 10. Exceptions
+
+Store Managers may approve return exceptions (for example, a return outside the return window) with a value of up to $200. Exceptions above $200 must be escalated according to the Customer Support Escalation Process (NRS-CX-004).
+
+[RETURNS-C00]
+# Northstar Retail Systems — Product Return Policy
+
+Document ID: NRS-CX-003
+Owner: Customer Experience
+Effective date: 1 January 2026
+
+## 1. Standard Returns
+
+Most products can be returned within 30 days of purchase with a valid receipt. Returns with a receipt are refunded in full to the original payment method.
+
+## 2. Electronics
+
+Electronics, including laptops, tablets, phones, and headphones, have a return window of 14 days from the date of purchase. Electronics must be returned unopened, or
+
+[RETURNS-C03]
+use can be returned within 1 year of purchase under the Northstar warranty. The customer may choose either a replacement or a refund.
+
+## 6. Online Orders
+
+Online orders can be returned in any store or by mail within 30 days of delivery. A free return label is provided when the item is defective or the wrong item was sent. For all other mail returns, a return shipping fee of $6.95 is deducted from the refund.
+
+## 7. Refund Processing Times
+
+Refunds to credit or debit cards are processed within","[RETURNS-C01]
+Opened electronics that are not defective are subject to a 15% restocking fee.
+Customers without a receipt may receive store credit for the lowest selling price of the item in the previous 60 days.
+
+[RETURNS-C02]
+## 4. Non-Returnable Items
+Products that become defective through normal use can be returned within 1 year of purchase under the Northstar warranty.
+
+[ESCALATION-C01]
+Tier 1 staff may issue a goodwill credit of up to $50 without further approval.",,,,,,,
+Q21,Are employees allowed to bring pets to the HQ office?,unanswerable,False,I cannot find the answer in the provided documents.,I cannot find the answer in the provided documents.,I cannot find the answer in the provided documents.,True,True,"[REMOTE-C02]
+Hybrid Work
+
+Eligible HQ employees may work remotely for up to 3 days per week. Tuesday and Thursday are anchor days, and all hybrid employees must work from the HQ office on those days.
+
+## 4. Fully Remote Work
+
+Fully remote work is granted only in exceptional circumstances. It requires approval from both the Department Head and HR, and each fully remote arrangement is reviewed every 6 months.
+
+## 5. How to Request a Remote Work Arrangement
+
+To request hybrid or fully remote work, the employee
+
+[REMOTE-C01]
+may choose their start and finish times in agreement with their line manager.
+
+Store-based employees work rostered shifts published by their Store Manager at least 2 weeks in advance.
+
+## 2. Eligibility for Remote Work
+
+Remote work is not available for store-floor roles or distribution centre roles. HQ employees become eligible for hybrid work after successfully completing their 3-month probation period.
+
+## 3. Hybrid Work
+
+Eligible HQ employees may work remotely for up to 3 days per week.
+
+[REMOTE-C00]
+# Northstar Retail Systems — Remote Work and Office Hours Policy
+
+Document ID: NRS-HR-006
+Owner: Human Resources
+Effective date: 1 January 2026
+
+## 1. Office Hours
+
+The standard working week is 40 hours. The HQ office building is open from 7:00 AM to 8:00 PM, Monday to Friday. All HQ employees must be available during core hours, which are 10:00 AM to 3:00 PM, Monday to Friday. Outside core hours, HQ employees may choose their start and finish times in agreement with their line manager.
+
+[REMOTE-C06]
+at least 15 working days before travel.
+
+## 9. Availability
+
+During core hours, remote employees must be reachable on Northstar Chat and must respond to messages within 1 hour.
+
+## 10. Overtime
+
+Overtime for non-exempt employees must be approved in advance by the line manager.
+
+[SECURITY-C07]
+of their start date.
+
+## 11. Violations
+
+Violations of these rules may result in disciplinary action, up to and including termination of employment.","[REMOTE-C02]
+Eligible HQ employees may work remotely for up to 3 days per week.
+Tuesday and Thursday are anchor days, and all hybrid employees must work from the HQ office on those days.
+
+[REMOTE-C00]
+All HQ employees must be available during core hours, which are 10:00 AM to 3:00 PM, Monday to Friday.
+Outside core hours, HQ employees may choose their start and finish times in agreement with their line manager.
+
+[REMOTE-C01]
+HQ employees become eligible for hybrid work after successfully completing their 3-month probation period.",,,,,,,
+Q22,How many days of paid jury duty leave do employees receive?,unanswerable,False,I cannot find the answer in the provided documents.,I cannot find the answer in the provided documents.,I cannot find the answer in the provided documents.,True,True,"[LEAVE-C02]
+of 5 unused annual leave days into the next leave year. Carried-over days must be used by 31 March of the new leave year; any carried-over days not used by that date are forfeited. Unused annual leave is paid out when employment ends.
+
+## 3. Requesting Annual Leave
+
+All annual leave must be requested through the PeopleHub portal. Requests for 3 or more consecutive working days must be submitted at least 10 working days before the first day of leave. Requests for 1 or 2 days must be submitted at
+
+[LEAVE-C01]
+Temporary and seasonal workers are covered by their individual employment contracts. The leave year runs from 1 January to 31 December.
+
+## 2. Annual Leave
+
+Full-time employees accrue 1.75 days of paid annual leave for each completed month of service, which equals 21 days per leave year. Part-time employees accrue annual leave on a pro-rata basis according to their contracted hours.
+
+Employees may carry over a maximum of 5 unused annual leave days into the next leave year. Carried-over days
+
+[LEAVE-C07]
+and up to 2 days of paid bereavement leave following the death of an extended family member (grandparent, grandchild, aunt, uncle, or in-law).
+
+## 8. Unpaid Leave
+
+Employees with at least 1 year of continuous service may request up to 30 days of unpaid leave per leave year. Unpaid leave requires approval from the HR Director.
+
+## 9. Contact
+
+Questions about this policy should be sent to hr@northstar-retail.example or directed to the HR team on internal extension 2100.
+
+[LEAVE-C06]
+The primary caregiver receives 16 weeks of leave at full pay. The secondary caregiver receives 4 weeks of leave at full pay. Employees must notify HR of their intention to take parental leave at least 8 weeks before the expected start date.
+
+## 7. Bereavement Leave
+
+Employees may take up to 5 days of paid bereavement leave following the death of an immediate family member (spouse or partner, child, parent, or sibling) and up to 2 days of paid bereavement leave following the death of an extended
+
+[LEAVE-C05]
+because of illness must notify their line manager before 9:30 AM or before the start of their shift, whichever is earlier.
+
+If a sickness absence lasts more than 3 consecutive working days, the employee must upload a medical certificate to PeopleHub within 2 working days of returning to work.
+
+## 6. Parental Leave
+
+Employees who have completed at least 6 months of continuous service are eligible for paid parental leave. The primary caregiver receives 16 weeks of leave at full pay. The secondary","[LEAVE-C01]
+Full-time employees accrue 1.75 days of paid annual leave for each completed month of service, which equals 21 days per leave year.
+Employees may carry over a maximum of 5 unused annual leave days into the next leave year.
+
+[LEAVE-C07]
+and up to 2 days of paid bereavement leave following the death of an extended family member (grandparent, grandchild, aunt, uncle, or in-law).
+Employees with at least 1 year of continuous service may request up to 30 days of unpaid leave per leave year.
+
+[LEAVE-C06]
+Employees may take up to 5 days of paid bereavement leave following the death of an immediate family member (spouse or partner, child, parent, or sibling) and up to 2 days of paid bereavement leave following the death of an extended",,,,,,,
+Q23,What is the annual salary increase percentage for Store Managers?,unanswerable,False,I cannot find the answer in the provided documents.,I cannot find the answer in the provided documents.,I cannot find the answer in the provided documents.,True,True,"[ESCALATION-C01]
+associates and contact center agents. Tier 1 staff should try to resolve the issue at first contact. Tier 1 staff may issue a goodwill credit of up to $50 without further approval.
+
+Tier 2 — Shift Supervisors and Store Managers. An issue must be escalated to Tier 2 if the customer asks to speak to a manager, if the resolution involves more than $50, or if the issue has not been resolved within 24 hours. Store Managers may approve exceptions with a value of up to $200.
+
+Tier 3 — Regional
+
+[ESCALATION-C02]
+Managers may approve exceptions with a value of up to $200.
+
+Tier 3 — Regional Customer Experience Manager. An issue must be escalated to Tier 3 if the exception value is above $200 and up to $1,000, if the customer makes a legal threat, if the media is involved, or if the case has already been escalated twice. Exceptions with a value above $1,000 require approval from the Director of Customer Experience.
+
+## 3. Response Time Targets
+
+Tier 2 must acknowledge an escalated case within 4 business
+
+[ESCALATION-C00]
+# Northstar Retail Systems — Customer Support Escalation Process
+
+Document ID: NRS-CX-004
+Owner: Customer Experience
+Effective date: 1 January 2026
+
+## 1. Purpose
+
+This process defines how customer complaints and issues are escalated so that every customer receives a timely and consistent response. It applies to all store associates, contact center agents, supervisors, and managers.
+
+## 2. Support Tiers
+
+Tier 1 — Frontline associates and contact center agents. Tier 1 staff should try to resolve
+
+[LEAVE-C01]
+Temporary and seasonal workers are covered by their individual employment contracts. The leave year runs from 1 January to 31 December.
+
+## 2. Annual Leave
+
+Full-time employees accrue 1.75 days of paid annual leave for each completed month of service, which equals 21 days per leave year. Part-time employees accrue annual leave on a pro-rata basis according to their contracted hours.
+
+Employees may carry over a maximum of 5 unused annual leave days into the next leave year. Carried-over days
+
+[REMOTE-C01]
+may choose their start and finish times in agreement with their line manager.
+
+Store-based employees work rostered shifts published by their Store Manager at least 2 weeks in advance.
+
+## 2. Eligibility for Remote Work
+
+Remote work is not available for store-floor roles or distribution centre roles. HQ employees become eligible for hybrid work after successfully completing their 3-month probation period.
+
+## 3. Hybrid Work
+
+Eligible HQ employees may work remotely for up to 3 days per week.","[ESCALATION-C01]
+Tier 2 — Shift Supervisors and Store Managers.
+Store Managers may approve exceptions with a value of up to $200.
+
+[RETURNS-C05]
+## 10. Exceptions
+Store Managers may approve return exceptions (for example, a return outside the return window) with a value of up to $200.
+
+[REMOTE-C01]
+Store-based employees work rostered shifts published by their Store Manager at least 2 weeks in advance.",,,,,,,
+Q24,How many parking spaces are available at the HQ office?,unanswerable,False,I cannot find the answer in the provided documents.,I cannot find the answer in the provided documents.,I cannot find the answer in the provided documents.,True,True,"[REMOTE-C00]
+# Northstar Retail Systems — Remote Work and Office Hours Policy
+
+Document ID: NRS-HR-006
+Owner: Human Resources
+Effective date: 1 January 2026
+
+## 1. Office Hours
+
+The standard working week is 40 hours. The HQ office building is open from 7:00 AM to 8:00 PM, Monday to Friday. All HQ employees must be available during core hours, which are 10:00 AM to 3:00 PM, Monday to Friday. Outside core hours, HQ employees may choose their start and finish times in agreement with their line manager.
+
+[REMOTE-C02]
+Hybrid Work
+
+Eligible HQ employees may work remotely for up to 3 days per week. Tuesday and Thursday are anchor days, and all hybrid employees must work from the HQ office on those days.
+
+## 4. Fully Remote Work
+
+Fully remote work is granted only in exceptional circumstances. It requires approval from both the Department Head and HR, and each fully remote arrangement is reviewed every 6 months.
+
+## 5. How to Request a Remote Work Arrangement
+
+To request hybrid or fully remote work, the employee
+
+[REMOTE-C01]
+may choose their start and finish times in agreement with their line manager.
+
+Store-based employees work rostered shifts published by their Store Manager at least 2 weeks in advance.
+
+## 2. Eligibility for Remote Work
+
+Remote work is not available for store-floor roles or distribution centre roles. HQ employees become eligible for hybrid work after successfully completing their 3-month probation period.
+
+## 3. Hybrid Work
+
+Eligible HQ employees may work remotely for up to 3 days per week.
+
+[REMOTE-C04]
+Hybrid employees receive a one-time home office allowance of $300. The allowance must be claimed within 60 days of the remote work arrangement being approved, and original receipts must be submitted with the claim.
+
+Employees approved to work remotely for 3 days per week, and fully remote employees, receive an internet stipend of $40 per month.
+
+## 7. Security When Working Remotely
+
+Remote employees must follow the Information Security Rules (NRS-SEC-005) at all times. In particular, employees
+
+[REMOTE-C03]
+a Remote Work Arrangement
+
+To request hybrid or fully remote work, the employee must submit the ""Flexible Work Request"" form in the PeopleHub portal. The line manager must respond to the request within 10 working days. Fully remote requests are then forwarded to the Department Head and HR for approval.
+
+## 6. Equipment and Allowances
+
+Hybrid and fully remote employees use their company-issued laptop for all work. Hybrid employees receive a one-time home office allowance of $300. The allowance","[REMOTE-C00]
+The HQ office building is open from 7:00 AM to 8:00 PM, Monday to Friday.
+All HQ employees must be available during core hours, which are 10:00 AM to 3:00 PM, Monday to Friday.
+
+[REMOTE-C02]
+Eligible HQ employees may work remotely for up to 3 days per week.
+Tuesday and Thursday are anchor days, and all hybrid employees must work from the HQ office on those days.
+
+[REMOTE-C01]
+HQ employees become eligible for hybrid work after successfully completing their 3-month probation period.",,,,,,,
